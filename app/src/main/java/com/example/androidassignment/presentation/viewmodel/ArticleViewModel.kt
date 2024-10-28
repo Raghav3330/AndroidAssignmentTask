@@ -10,7 +10,7 @@ import com.example.androidassignment.data.article.Article
 import com.example.androidassignment.data.article.ArticleRepository
 import kotlinx.coroutines.flow.Flow
 
-private const val ITEMS_PER_PAGE = 50
+private const val ITEMS_PER_PAGE = 10
 
 /**
  * ViewModel for the [ArticleActivity] screen.

@@ -25,7 +25,7 @@ import kotlin.math.max
 // The initial key used for loading.
 // This is the article id of the first article that will be loaded
 private const val STARTING_KEY = 0
-private const val LOAD_DELAY_MILLIS = 3_000L
+private const val LOAD_DELAY_MILLIS = 5_000L
 
 private val firstArticleCreatedTime = LocalDateTime.now()
 
